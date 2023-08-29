@@ -1,1 +1,0 @@
-#function แบบที่ 4 - Have parameters/Have return
